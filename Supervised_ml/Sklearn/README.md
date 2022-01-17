@@ -1,0 +1,1 @@
+This focuses on basic machine learning concepts such as data splitting, cross-validation, generalization error, overfitting, the fundamental trade-off, the golden rule, and data preprocessing. You will also be exposed to common machine learning algorithms such as decision trees, k-nearest neighbours, SVMs, naive Bayes, and logistic regression using the scikit-learn framework.
